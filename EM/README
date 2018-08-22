@@ -1,0 +1,3 @@
+To run 25 different classifications using a Gaussian mixture parametrized using Expectation-Maximization, run main.m. 
+
+To run 5 separate classifiers with different components in the Gaussian mixture, run main_b.m. 
