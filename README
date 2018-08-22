@@ -1,3 +1,2 @@
-To run 25 different classifications using a Gaussian mixture parametrized using Expectation-Maximization, run main.m. 
+EM Directory has assignment involving Generative Learning using a Gaussian Mixture Model parametrized using the Expectation-Maximizaion algorithm.
 
-To run 5 separate classifiers with different components in the Gaussian mixture, run main_b.m. 
