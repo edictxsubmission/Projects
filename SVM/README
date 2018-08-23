@@ -1,0 +1,3 @@
+LinearKernel_SVM runs the SVM algorithm across the MNIST dataset using a linear kernel across various regularization parameters. 
+
+GaussianKernel_SVM runs the SVM algorithm across the MNIST dataset using a Gaussian kernel for optimally found regularization parameters. 
