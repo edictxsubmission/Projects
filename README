@@ -1,2 +1,5 @@
 EM Directory has assignment involving Generative Learning using a Gaussian Mixture Model parametrized using the Expectation-Maximizaion algorithm.
 
+SVM Directory is an application of the Soft-Margin Support Vector Machine (SVM) algorithm on the MNIST dataset. 
+
+NeuralNetwork Directory applies a "Vanilla" Neural Network algorithm to the MNIST dataset with 1 and 2 Hidden Layers. 
